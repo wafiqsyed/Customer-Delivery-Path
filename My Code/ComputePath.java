@@ -6,7 +6,7 @@ import java.io.IOException;
  */
 
 /**
- * @author Wafiq Syed Rahmathulla 
+ * @author Wafiq Syed 
  * @author student No. 250868594
  * This program computes a path that a drone can follow from the UWO store to the customer's house. 
  * The map is given and divided into hexagonal cells. Using a stack, a path from the UWO store
