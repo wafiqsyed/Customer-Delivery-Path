@@ -71,10 +71,6 @@ go to cell 8; also from cell 8 it is not possible to go to cell 10.
 Since cell 11 does not contain a switch, such a cell cannot be part of a
 path from WPC to C.
 
-![](media/image1.emf){width="0.26180555555555557in"
-height="0.23055555555555557in"}![](media/image2.emf){width="0.26180555555555557in"
-height="0.23055555555555557in"}![](media/image5.PNG){width="3.0726257655293088in"
-height="3.21959864391951in"}
 
 1.  **Valid Paths**
 
