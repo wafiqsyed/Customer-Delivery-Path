@@ -6,7 +6,7 @@ import java.io.IOException;
  */
 
 /**
- * @author Wafiq Syed Rahmathulla
+ * @author Wafiq Syed
  * For the bonus marks. 
  *
  */
