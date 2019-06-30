@@ -3,7 +3,7 @@
  */
 
 /**
- * @author Wafiq Syed Rahmathulla
+ * @author Wafiq Syed
  * @author Student No. 250868594
  *This program computes a path that a drone can follow from the UWO store
  *to a customer's house. 
