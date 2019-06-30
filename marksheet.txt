@@ -1,0 +1,49 @@
+CS1027b Marksheet
+Assignment 2
+-----------------
+Student Name: Wafiq Syed Rahmathulla 
+UWO ID: wsyedrah
+
+TA name: Yifang Liu
+
+Program Design and Implementation 
+=================================
+  All methods and instance variables in ArrayStack.java are 
+  implemented as required:                                     3.5  /3.5 marks
+
+  All methods and instance variables in ComputePath.java are 
+  implemented as required:                                     3.5  /4 marks
+  
+  TA comments: in the main method, should use args[0] instead of args[8]. Otherwise, the the program doesn't work in linux command. 
+
+Programming Style
+=================
+  i) Meaningful names for variables and constants,
+     all instance variables are private,
+     only public methods are as specified in assignment:      1.5  /1.5 marks
+	 
+	 TA comments:
+
+ ii) Readability, good indentation:                          0.5   /0.5 marks
+ 
+     TA comments:
+
+iii) Code comments 
+     Instance variables and methods     
+     Comments within code to explain algorithms implemented:  1.5  /1.5 marks
+
+Testing
+=======
+  i) MyStack tests:          3  /3 marks
+     Failed tests:
+
+ ii) ComputePath tests:      6  /6 marks
+     Failed tests: all tests 
+
+iii) Bonus tests:             0 /1 mark
+
+Late penalty:
+Mark (total - late penalty): 19.5
+
+Other comments:
+   
